@@ -20,7 +20,30 @@
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red)
 
 ---
+## Portfolio Architecture
 
+The projects below simulate a real financial data validation workflow used in enterprise reporting systems.
+
+```
+Source Transaction Systems
+        │
+        ▼
+SQL Reconciliation Framework
+Detect mismatches between source and reporting datasets
+        │
+        ▼
+Financial Reporting Control Framework
+Monitor validation checkpoints across reporting pipelines
+        │
+        ▼
+Financial Reporting UAT Framework
+Validate financial reporting releases before deployment
+        │
+        ▼
+BI Dashboards / Financial Reports
+Trusted reporting for finance and leadership
+```
+---
 ## Featured Projects
 
 ### SQL Reconciliation Framework
