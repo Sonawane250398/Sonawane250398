@@ -1,17 +1,17 @@
 # Hi, I'm Yash Sonawane 👋
 
 **Business Systems Analyst | Financial Data | SQL Validation | UAT | Tableau**
-Fullerton, CA
+📍 Fullerton, CA
 
 ---
 
-## Portfolio
+# Portfolio
 
-https://portfolio-delta-silk-82.vercel.app
+🔗 https://portfolio-delta-silk-82.vercel.app
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
@@ -21,9 +21,11 @@ https://portfolio-delta-silk-82.vercel.app
 
 ---
 
-## GitHub Stats
+# GitHub Activity
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonawane250398\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonawane250398\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonawane250398\&layout=compact)
 
 ---
 
@@ -39,7 +41,7 @@ https://github.com/Sonawane250398/sql-reconciliation-framework
 **Key Highlights**
 
 * Multi-layer SQL reconciliation logic using CTEs and window functions
-* Transaction classification: MATCHED / MISMATCH / MISSING
+* Transaction classification: **MATCHED / MISMATCH / MISSING**
 * Break severity analysis and variance detection
 * Account-level discrepancy tracking
 * Rolling discrepancy trend monitoring
@@ -100,11 +102,11 @@ Focused on building reliable **reconciliation frameworks, reporting controls, an
 
 # Connect
 
-**Portfolio**
+🌐 Portfolio
 https://portfolio-delta-silk-82.vercel.app
 
-**LinkedIn**
+💼 LinkedIn
 https://linkedin.com/in/yash-sonawane25
 
-**Resume**
+📄 Resume
 Available on portfolio website
