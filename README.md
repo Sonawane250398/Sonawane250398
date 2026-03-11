@@ -13,7 +13,17 @@ https://portfolio-delta-silk-82.vercel.app
 
 ## Tech Stack
 
-SQL • Tableau • Python • Excel • Git
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Python](https://img.shields.io/badge/Python-Data%20Processing-yellow)
+![Excel](https://img.shields.io/badge/Excel-Advanced%20Analytics-green)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+
+---
+
+## GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonawane250398\&show_icons=true\&theme=default)
 
 ---
 
@@ -82,9 +92,9 @@ Business Analysis
 
 # About Me
 
-Business Analyst with 4+ years of experience designing financial reporting and data validation systems using SQL, Tableau, and structured UAT processes.
+Business Analyst with **4+ years of experience designing financial reporting and data validation systems** using SQL, Tableau, and structured UAT processes.
 
-Focused on building reliable reconciliation frameworks, reporting controls, and validation pipelines that bridge **finance, analytics, and engineering teams**.
+Focused on building reliable **reconciliation frameworks, reporting controls, and validation pipelines** that bridge **finance, analytics, and engineering teams**.
 
 ---
 
