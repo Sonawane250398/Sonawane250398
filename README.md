@@ -25,7 +25,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonawane250398&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonawane250398&layout=compact&exclude_repo=portfolio-delta-silk-82)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonawane250398&layout=compact&hide=typescript,html,css)
 
 ---
 
