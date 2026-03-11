@@ -1,6 +1,6 @@
 # Hi, I'm Yash Sonawane 👋
 
-**Business Systems Analyst | Financial Data | SQL Validation | UAT | Tableau**
+**Business Systems Analyst | Financial Data | SQL Validation | UAT | Tableau**  
 📍 Fullerton, CA
 
 ---
@@ -20,6 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red)
 
 ---
+
 ## Portfolio Architecture
 
 The projects below simulate a real financial data validation workflow used in enterprise reporting systems.
@@ -48,14 +49,17 @@ Validate financial reporting releases before deployment
         ▼
 BI Dashboards / Financial Reports
 Trusted reporting for finance and leadership
+```
+
 ---
+
 ## Featured Projects
 
 ### SQL Reconciliation Framework
 
 SQL-based reconciliation and validation framework detecting mismatches between source transaction systems and downstream financial reporting datasets.
 
-**Repository**
+**Repository**  
 https://github.com/Sonawane250398/sql-reconciliation-framework
 
 **Key Highlights**
@@ -72,7 +76,7 @@ https://github.com/Sonawane250398/sql-reconciliation-framework
 
 SQL-based monitoring framework tracking validation checkpoints across financial reporting pipelines to ensure data integrity and audit readiness.
 
-**Repository**
+**Repository**  
 https://github.com/Sonawane250398/financial-reporting-control-framework
 
 **Key Highlights**
@@ -88,7 +92,7 @@ https://github.com/Sonawane250398/financial-reporting-control-framework
 
 Structured testing framework used to validate financial reporting systems before production releases.
 
-**Repository**
+**Repository**  
 https://github.com/Sonawane250398/financial-reporting-uat-framework
 
 **Key Highlights**
@@ -102,13 +106,13 @@ https://github.com/Sonawane250398/financial-reporting-uat-framework
 
 ## Skills
 
-SQL
-Tableau
-Financial Data Analysis
-Data Validation
-Reporting Systems
-UAT Testing
-Business Analysis
+SQL  
+Tableau  
+Financial Data Analysis  
+Data Validation  
+Reporting Systems  
+UAT Testing  
+Business Analysis  
 
 ---
 
@@ -122,11 +126,11 @@ Focused on building reliable **reconciliation frameworks, reporting controls, an
 
 ## Connect
 
-🌐 Portfolio
-https://portfolio-delta-silk-82.vercel.app
+🌐 Portfolio  
+https://portfolio-delta-silk-82.vercel.app  
 
-💼 LinkedIn
-https://linkedin.com/in/yash-sonawane25
+💼 LinkedIn  
+https://linkedin.com/in/yash-sonawane25  
 
-📄 Resume
+📄 Resume  
 Available on portfolio website
