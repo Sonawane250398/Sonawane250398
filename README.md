@@ -21,12 +21,6 @@
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonawane250398&show_icons=true&theme=default&cache_seconds=1)
-
----
-
 ## Featured Projects
 
 ### SQL Reconciliation Framework
