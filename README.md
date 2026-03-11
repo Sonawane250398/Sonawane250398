@@ -1,6 +1,6 @@
 # Hi, I'm Yash Sonawane
 
-Business Systems Analyst | Financial Data | SQL Validation | UAT | Tableau  
+Business Systems Analyst | Financial Data | SQL Validation | UAT | Tableau
 Fullerton, CA
 
 ---
@@ -15,79 +15,83 @@ https://portfolio-delta-silk-82.vercel.app
 
 ---
 
-### Financial Reconciliation Framework
+### SQL Reconciliation Framework
 
-SQL-based reconciliation system detecting mismatches between source transaction systems and reporting datasets.
+SQL-based reconciliation and validation framework detecting mismatches between source transaction systems and downstream financial reporting datasets.
 
-Repository:  
-https://github.com/Sonawane250398/financial-reconciliation-framework
+Repository:
+https://github.com/Sonawane250398/sql-reconciliation-framework
 
 Key Highlights:
-- Multi-layer SQL reconciliation framework
-- Transaction classification: MATCHED / MISMATCH / MISSING
-- Break severity analysis
-- Account-level discrepancy tracking
-- Rolling discrepancy trend monitoring
+
+* Multi-layer SQL reconciliation logic using CTEs and window functions
+* Transaction classification: MATCHED / MISMATCH / MISSING
+* Break severity analysis and variance detection
+* Account-level discrepancy tracking
+* Rolling discrepancy trend monitoring
 
 ---
 
-### Reporting Control Framework
+### Financial Reporting Control Framework
 
-Monitoring layer tracking validation checkpoints across financial reporting domains such as revenue, P&L, and expenses.
+SQL-based monitoring framework tracking validation checkpoints across financial reporting pipelines to ensure data integrity and audit readiness.
 
-Repository:  
-https://github.com/Sonawane250398/reporting-control-framework
+Repository:
+https://github.com/Sonawane250398/financial-reporting-control-framework
 
 Key Highlights:
-- Data validation checkpoints across reporting pipelines
-- SQL monitoring queries for reporting integrity
-- Aggregated variance monitoring
-- Structured reporting controls
+
+* Validation checkpoints across reporting pipelines
+* SQL monitoring queries for reporting integrity
+* Aggregated variance monitoring across financial datasets
+* Structured reporting control checks
 
 ---
 
 ### Financial Reporting UAT Framework
 
-Structured testing framework used to validate financial reporting releases.
+Structured testing framework used to validate financial reporting systems before production releases.
 
-Repository:  
-https://github.com/Sonawane250398/uat-framework
+Repository:
+https://github.com/Sonawane250398/financial-reporting-uat-framework
 
 Key Highlights:
-- UAT test case framework for reporting systems
-- SQL validation scripts
-- Data comparison testing
-- Release validation structure
+
+* UAT test case framework for financial reporting systems
+* SQL validation scripts for data verification
+* Data comparison testing between source and reporting layers
+* Release readiness validation workflows
 
 ---
 
 # Skills
 
-SQL  
-Tableau  
-Financial Data Analysis  
-Data Validation  
-Reporting Systems  
-UAT Testing  
-Business Analysis  
+SQL
+Tableau
+Financial Data Analysis
+Data Validation
+Reporting Systems
+UAT Testing
+Business Analysis
 
 ---
 
 # About Me
 
-Business Analyst with 4+ years of experience building scalable data solutions, SQL validation frameworks, and reporting infrastructure across financial and operational systems.
+Business Analyst with 4+ years of experience building scalable financial reporting and data validation systems using SQL, Tableau, and structured UAT processes.
 
-Focused on bridging the gap between **finance, engineering, and analytics teams** by building reliable data validation frameworks and reporting systems.
+Focused on bridging the gap between **finance, engineering, and analytics teams** by building reliable data validation frameworks, reconciliation processes, and reporting controls.
 
 ---
 
 # Links
 
-Portfolio  
+Portfolio
 https://portfolio-delta-silk-82.vercel.app
 
-LinkedIn  
+LinkedIn
 https://linkedin.com/in/yash-sonawane25
 
-Resume  
+Resume
 Available on portfolio website
+
