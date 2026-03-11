@@ -5,13 +5,13 @@
 
 ---
 
-# Portfolio
+## Portfolio
 
 🔗 https://portfolio-delta-silk-82.vercel.app
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
@@ -21,15 +21,15 @@
 
 ---
 
-# GitHub Activity
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonawane250398\&show_icons=true)
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## SQL Reconciliation Framework
+### SQL Reconciliation Framework
 
 SQL-based reconciliation and validation framework detecting mismatches between source transaction systems and downstream financial reporting datasets.
 
@@ -46,7 +46,7 @@ https://github.com/Sonawane250398/sql-reconciliation-framework
 
 ---
 
-## Financial Reporting Control Framework
+### Financial Reporting Control Framework
 
 SQL-based monitoring framework tracking validation checkpoints across financial reporting pipelines to ensure data integrity and audit readiness.
 
@@ -62,7 +62,7 @@ https://github.com/Sonawane250398/financial-reporting-control-framework
 
 ---
 
-## Financial Reporting UAT Framework
+### Financial Reporting UAT Framework
 
 Structured testing framework used to validate financial reporting systems before production releases.
 
@@ -78,7 +78,7 @@ https://github.com/Sonawane250398/financial-reporting-uat-framework
 
 ---
 
-# Skills
+## Skills
 
 SQL
 Tableau
@@ -90,7 +90,7 @@ Business Analysis
 
 ---
 
-# About Me
+## About Me
 
 Business Analyst with **4+ years of experience designing financial reporting and data validation systems** using SQL, Tableau, and structured UAT processes.
 
@@ -98,7 +98,7 @@ Focused on building reliable **reconciliation frameworks, reporting controls, an
 
 ---
 
-# Connect
+## Connect
 
 🌐 Portfolio
 https://portfolio-delta-silk-82.vercel.app
