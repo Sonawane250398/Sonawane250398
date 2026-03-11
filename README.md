@@ -29,20 +29,25 @@ Source Transaction Systems
         │
         ▼
 SQL Reconciliation Framework
+github.com/Sonawane250398/sql-reconciliation-framework
 Detect mismatches between source and reporting datasets
+
         │
         ▼
 Financial Reporting Control Framework
+github.com/Sonawane250398/financial-reporting-control-framework
 Monitor validation checkpoints across reporting pipelines
+
         │
         ▼
 Financial Reporting UAT Framework
+github.com/Sonawane250398/financial-reporting-uat-framework
 Validate financial reporting releases before deployment
+
         │
         ▼
 BI Dashboards / Financial Reports
 Trusted reporting for finance and leadership
-```
 ---
 ## Featured Projects
 
