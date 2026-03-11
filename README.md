@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yash Sonawane
 
-<!--
-**Sonawane250398/Sonawane250398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Systems Analyst | Financial Data | SQL Validation | UAT | Tableau  
+Fullerton, CA
 
-Here are some ideas to get you started:
+## Portfolio
+https://portfolio-delta-silk-82.vercel.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Financial Reconciliation Framework
+SQL-based reconciliation system detecting mismatches between
+source transaction systems and reporting datasets.
+
+### Reporting Control Framework
+Monitoring layer tracking validation checkpoints across financial
+reporting domains such as revenue, P&L, and expenses.
+
+### Financial Reporting UAT Framework
+Structured testing framework used to validate financial reporting releases.
+
+## Skills
+
+SQL  
+Tableau  
+Python  
+Financial Data Validation  
+UAT / SDLC  
+Financial Reporting Systems  
+
+## Contact
+
+LinkedIn  
+https://linkedin.com/in/yash-sonawane25
