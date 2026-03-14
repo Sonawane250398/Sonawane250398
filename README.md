@@ -5,7 +5,7 @@
 ---
 
 ## Portfolio
-🔗 https://portfolio-delta-silk-82.vercel.app
+🔗 https://yashsonawane.vercel.app
 
 ---
 
@@ -73,6 +73,6 @@ Business Systems Analyst with 4+ years of experience supporting financial report
 
 ## Connect
 
-🌐 Portfolio — https://portfolio-delta-silk-82.vercel.app  
+🌐 Portfolio — https://yashsonawane.vercel.app  
 💼 LinkedIn — https://linkedin.com/in/yash-sonawane25  
 📄 Resume — Available on portfolio website
