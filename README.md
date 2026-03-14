@@ -31,7 +31,6 @@ Translate reporting changes into requirements, test coverage, defect tracking, a
         ▼
 Financial Reporting Controls Monitoring Model
 Monitor reporting exceptions across financial domains and support audit-ready controls
-
 ```
 
 ---
@@ -39,10 +38,11 @@ Monitor reporting exceptions across financial domains and support audit-ready co
 ## Featured Projects
 
 ### Source-to-Report Financial Reconciliation Platform
+
 Built a SQL-based reconciliation workflow comparing source, transformed, and reporting-layer finance data to detect missing records, duplicate entries, mapping errors, and balance variances across validation checkpoints.
 
 **Repository**  
-https://github.com/Sonawane250398/source-to-report-reconciliation
+[github.com/Sonawane250398/source-to-report-reconciliation](https://github.com/Sonawane250398/source-to-report-reconciliation)
 
 **Key Highlights**
 - Three-layer validation across source transactions, transformed reporting data, and final report output
