@@ -1,12 +1,10 @@
 # Hi, I'm Yash Sonawane 👋
-
 **Business Systems Analyst | Financial Data | SQL Validation | UAT | Tableau**  
 📍 Fullerton, CA
 
 ---
 
 ## Portfolio
-
 🔗 https://portfolio-delta-silk-82.vercel.app
 
 ---
@@ -29,6 +27,12 @@ The projects below simulate a real financial data validation workflow used in en
 Source Transaction Systems
         │
         ▼
+Source-to-Report Financial Reconciliation
+github.com/Sonawane250398/source-to-report-reconciliation
+Three-layer reconciliation: source → transformed → final report
+
+        │
+        ▼
 SQL Reconciliation Framework
 github.com/Sonawane250398/sql-reconciliation-framework
 Detect mismatches between source and reporting datasets
@@ -41,9 +45,15 @@ Monitor validation checkpoints across reporting pipelines
 
         │
         ▼
+UAT and Release Readiness Framework
+github.com/Sonawane250398/uat-release-readiness-framework
+Validate reporting enhancements before deployment
+
+        │
+        ▼
 Financial Reporting UAT Framework
 github.com/Sonawane250398/financial-reporting-uat-framework
-Validate financial reporting releases before deployment
+SQL-based UAT validation for financial reporting releases
 
         │
         ▼
@@ -55,15 +65,43 @@ Trusted reporting for finance and leadership
 
 ## Featured Projects
 
-### SQL Reconciliation Framework
+### Source-to-Report Financial Reconciliation
+SQL-based reconciliation workflow comparing source, transformed, and reporting-layer finance data to detect missing records, duplicate entries, mapping errors, and balance variances across validation checkpoints.
 
+**Repository**  
+https://github.com/Sonawane250398/source-to-report-reconciliation
+
+**Key Highlights**
+* Three-layer validation: source transactions → transformed reporting → final report output
+* Exception report flagging missing records, duplicates, amount mismatches, and invalid mappings
+* Reconciliation summary with period-level variance analysis
+* Controlled data issues embedded for realistic testing
+* Business rules documentation and structured SQL validation checks
+
+---
+
+### UAT and Release Readiness Framework
+Structured UAT framework for a financial reporting enhancement — including business requirements, user stories, acceptance criteria, test cases, defect tracking, traceability matrix, and release-readiness checkpoints.
+
+**Repository**  
+https://github.com/Sonawane250398/uat-release-readiness-framework
+
+**Key Highlights**
+* Full BA release pack: requirements → user stories → acceptance criteria → UAT → release
+* 15 UAT test cases covering positive, negative, and boundary scenarios
+* Defect log with severity tracking and retest status
+* Traceability matrix linking requirements to test cases and defects
+* Release checklist with sign-off tracking
+
+---
+
+### SQL Reconciliation Framework
 SQL-based reconciliation and validation framework detecting mismatches between source transaction systems and downstream financial reporting datasets.
 
 **Repository**  
 https://github.com/Sonawane250398/sql-reconciliation-framework
 
 **Key Highlights**
-
 * Multi-layer SQL reconciliation logic using CTEs and window functions
 * Transaction classification: **MATCHED / MISMATCH / MISSING**
 * Break severity analysis and variance detection
@@ -73,14 +111,12 @@ https://github.com/Sonawane250398/sql-reconciliation-framework
 ---
 
 ### Financial Reporting Control Framework
-
 SQL-based monitoring framework tracking validation checkpoints across financial reporting pipelines to ensure data integrity and audit readiness.
 
 **Repository**  
 https://github.com/Sonawane250398/financial-reporting-control-framework
 
 **Key Highlights**
-
 * Validation checkpoints across reporting pipelines
 * SQL monitoring queries for reporting integrity
 * Aggregated variance monitoring across financial datasets
@@ -89,14 +125,12 @@ https://github.com/Sonawane250398/financial-reporting-control-framework
 ---
 
 ### Financial Reporting UAT Framework
-
 Structured testing framework used to validate financial reporting systems before production releases.
 
 **Repository**  
 https://github.com/Sonawane250398/financial-reporting-uat-framework
 
 **Key Highlights**
-
 * UAT test case framework for financial reporting systems
 * SQL validation scripts for data verification
 * Data comparison testing between source and reporting layers
@@ -106,13 +140,7 @@ https://github.com/Sonawane250398/financial-reporting-uat-framework
 
 ## Skills
 
-SQL  
-Tableau  
-Financial Data Analysis  
-Data Validation  
-Reporting Systems  
-UAT Testing  
-Business Analysis  
+SQL · Tableau · Financial Data Analysis · Data Validation · Reporting Systems · UAT Testing · Business Analysis
 
 ---
 
@@ -126,11 +154,6 @@ Focused on building reliable **reconciliation frameworks, reporting controls, an
 
 ## Connect
 
-🌐 Portfolio  
-https://portfolio-delta-silk-82.vercel.app  
-
-💼 LinkedIn  
-https://linkedin.com/in/yash-sonawane25  
-
-📄 Resume  
-Available on portfolio website
+🌐 Portfolio — https://portfolio-delta-silk-82.vercel.app  
+💼 LinkedIn — https://linkedin.com/in/yash-sonawane25  
+📄 Resume — Available on portfolio website
