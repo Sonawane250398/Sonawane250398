@@ -1,11 +1,13 @@
 # Hi, I'm Yash Sonawane 👋
+
 **Business Analyst | Financial Reporting, Reconciliation & UAT**  
 📍 Fullerton, CA
 
 ---
 
 ## Portfolio
-🔗 https://yashsonawane.vercel.app
+
+🔗 [yashsonawane.vercel.app](https://yashsonawane.vercel.app)
 
 ---
 
@@ -13,7 +15,7 @@
 
 The projects below simulate business analyst workflows used in financial reporting, reconciliation, UAT, and reporting controls.
 
-```
+```text
 Operational Finance Data
         │
         ▼
@@ -51,10 +53,11 @@ https://github.com/Sonawane250398/source-to-report-reconciliation
 ---
 
 ### Financial Reporting UAT and Release Readiness Framework
+
 Designed a structured UAT framework for a reporting enhancement, including business requirements, user stories, acceptance criteria, test cases, defect tracking, traceability, and release-readiness checkpoints.
 
 **Repository**  
-https://github.com/Sonawane250398/uat-release-readiness-framework
+[github.com/Sonawane250398/uat-release-readiness-framework](https://github.com/Sonawane250398/uat-release-readiness-framework)
 
 **Key Highlights**
 - Full BA release pack from requirements through UAT and release readiness
@@ -62,21 +65,22 @@ https://github.com/Sonawane250398/uat-release-readiness-framework
 - Defect log with severity and retest tracking
 - Traceability matrix linking requirements, test cases, and defects
 - Release checklist with sign-off tracking
-  
+
 ---
 
 ### Financial Reporting Controls Monitoring Model
+
 Built a SQL-based controls layer to monitor reporting exceptions across revenue, P&L, inventory, expenses, and payroll.
 
 **Repository**  
-https://github.com/Sonawane250398/financial-reporting-control-framework
+[github.com/Sonawane250398/financial-reporting-control-framework](https://github.com/Sonawane250398/financial-reporting-control-framework)
 
 **Key Highlights**
 - Standardized exception checks across financial domains
 - SQL-based control logic for reporting integrity
 - Variance monitoring and exception flagging
 - Reporting-focused validation structure for audit readiness
-  
+
 ---
 
 ## Skills
@@ -93,6 +97,6 @@ Business Analyst with 4+ years of experience in financial reporting, reconciliat
 
 ## Connect
 
-🌐 Portfolio — https://yashsonawane.vercel.app  
-💼 LinkedIn — https://linkedin.com/in/yash-sonawane25  
+🌐 Portfolio — [yashsonawane.vercel.app](https://yashsonawane.vercel.app)  
+💼 LinkedIn — [linkedin.com/in/yash-sonawane25](https://linkedin.com/in/yash-sonawane25)  
 📄 Resume — Available on portfolio website
