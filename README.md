@@ -1,5 +1,5 @@
 # Hi, I'm Yash Sonawane 👋
-**Business Systems Analyst | Financial Reporting Systems | SQL Validation | UAT**  
+**Business Analyst | Financial Reporting, Reconciliation & UAT**  
 📍 Fullerton, CA
 
 ---
@@ -11,7 +11,7 @@
 
 ## Portfolio Focus
 
-The projects below simulate real business systems analyst workflows used in financial reporting environments.
+The projects below simulate business analyst workflows used in financial reporting, reconciliation, UAT, and reporting controls.
 
 ```
 Operational Finance Data
@@ -23,7 +23,13 @@ Detect missing records, duplicate entries, mapping issues, and balance variances
         │
         ▼
 Financial Reporting UAT and Release Readiness Framework
-Translate reporting enhancements into requirements, test coverage, defect tracking, and release sign-off
+Translate reporting changes into requirements, test coverage, defect tracking, and release sign-off
+
+        │
+        ▼
+Financial Reporting Controls Monitoring Model
+Monitor reporting exceptions across financial domains and support audit-ready controls
+
 ```
 
 ---
@@ -56,18 +62,32 @@ https://github.com/Sonawane250398/uat-release-readiness-framework
 - Defect log with severity and retest tracking
 - Traceability matrix linking requirements, test cases, and defects
 - Release checklist with sign-off tracking
+  
+---
 
+### Financial Reporting Controls Monitoring Model
+Built a SQL-based controls layer to monitor reporting exceptions across revenue, P&L, inventory, expenses, and payroll.
+
+**Repository**  
+https://github.com/Sonawane250398/financial-reporting-control-framework
+
+**Key Highlights**
+- Standardized exception checks across financial domains
+- SQL-based control logic for reporting integrity
+- Variance monitoring and exception flagging
+- Reporting-focused validation structure for audit readiness
+  
 ---
 
 ## Skills
 
-SQL · Tableau · Financial Reporting Systems · Data Validation · UAT Testing · Business Analysis
+SQL · Tableau · Financial Reporting · Reconciliation · UAT · Business Analysis
 
 ---
 
 ## About Me
 
-Business Systems Analyst with 4+ years of experience supporting financial reporting systems, source-to-report validation, UAT, and release readiness. I build practical analyst-focused portfolio projects that simulate reconciliation workflows, reporting controls, and testing frameworks used to improve reporting accuracy and deployment readiness across finance and business teams.
+Business Analyst with 4+ years of experience in financial reporting, reconciliation, UAT, and reporting controls. I build practical portfolio projects that simulate source-to-report validation, release readiness, and reporting control workflows used to improve reporting accuracy and deployment quality across finance and business teams.
 
 ---
 
