@@ -1,102 +1,40 @@
-# Hi, I'm Yash Sonawane 👋
+**Yash Sonawane** · **Business Analyst | Financial Reporting · Reconciliation · UAT** · **Fullerton, CA**
 
-**Business Analyst | Financial Reporting, Reconciliation & UAT**  
-📍 Fullerton, CA
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sonawane25)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C48C?style=flat&logo=vercel&logoColor=white)](https://yashsonawane.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashsonawane25.work@gmail.com)
 
----
+## About
 
-## Portfolio
+- 4+ years in financial reporting, reconciliation & UAT
+- Building Python & SQL tools that catch data errors before they reach decision-makers
+- Open to BA / BSA roles in fintech, banking & enterprise SaaS
 
-🔗 [yashsonawane.vercel.app](https://yashsonawane.vercel.app)
+## Tech stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-## Portfolio Focus
+## Featured projects
 
-The projects below simulate business analyst workflows used in financial reporting, reconciliation, UAT, and reporting controls.
+| Project | What it does | Links |
+|---------|-------------|-------|
+| Financial Analytics Dashboard | $174M sales analyzed · 8 interactive charts · live deployed | [Live](https://financial-dashboard-bu2r.onrender.com) · [GitHub](https://github.com/Sonawane250398/financial-dashboard) |
+| Financial Data Quality Pipeline | 1,000 transactions validated · 90% pass rate · zero manual steps | [GitHub](https://github.com/Sonawane250398/financial-reporting-pipeline) |
+| SQL Reconciliation Platform | 3-layer source-to-report validation · exception reporting | [GitHub](https://github.com/Sonawane250398/sql-reconciliation-framework) |
+| UAT Release Framework | Full BA release pack · traceability matrix · defect tracking | [GitHub](https://github.com/Sonawane250398/financial-reporting-uat-framework) |
+| Reporting Controls Model | 5 financial domains monitored · audit-ready SQL controls | [GitHub](https://github.com/Sonawane250398/financial-reporting-control-framework) |
 
-```text
-Operational Finance Data
-        │
-        ▼
-Source-to-Report Financial Reconciliation Platform
-Detect missing records, duplicate entries, mapping issues, and balance variances across reporting layers
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sonawane250398&theme=default)
 
-        │
-        ▼
-Financial Reporting UAT and Release Readiness Framework
-Translate reporting changes into requirements, test coverage, defect tracking, and release sign-off
-
-        │
-        ▼
-Financial Reporting Controls Monitoring Model
-Monitor reporting exceptions across financial domains and support audit-ready controls
-```
-
----
-
-## Featured Projects
-
-### Source-to-Report Financial Reconciliation Platform
-
-Built a SQL-based reconciliation workflow comparing source, transformed, and reporting-layer finance data to detect missing records, duplicate entries, mapping errors, and balance variances across validation checkpoints.
-
-**Repository**  
-[github.com/Sonawane250398/source-to-report-reconciliation](https://github.com/Sonawane250398/source-to-report-reconciliation)
-
-**Key Highlights**
-- Three-layer validation across source transactions, transformed reporting data, and final report output
-- Exception reporting for missing records, duplicates, amount mismatches, and invalid mappings
-- Reconciliation summary with reporting-period variance analysis
-- Business rules documentation and structured SQL validation checks
+![GitHub Streak](https://streak-stats.demolab.com?user=Sonawane250398&theme=default&hide_border=true)
 
 ---
 
-### Financial Reporting UAT and Release Readiness Framework
-
-Designed a structured UAT framework for a reporting enhancement, including business requirements, user stories, acceptance criteria, test cases, defect tracking, traceability, and release-readiness checkpoints.
-
-**Repository**  
-[github.com/Sonawane250398/uat-release-readiness-framework](https://github.com/Sonawane250398/uat-release-readiness-framework)
-
-**Key Highlights**
-- Full BA release pack from requirements through UAT and release readiness
-- UAT cases covering positive, negative, and boundary scenarios
-- Defect log with severity and retest tracking
-- Traceability matrix linking requirements, test cases, and defects
-- Release checklist with sign-off tracking
-
----
-
-### Financial Reporting Controls Monitoring Model
-
-Built a SQL-based controls layer to monitor reporting exceptions across revenue, P&L, inventory, expenses, and payroll.
-
-**Repository**  
-[github.com/Sonawane250398/financial-reporting-control-framework](https://github.com/Sonawane250398/financial-reporting-control-framework)
-
-**Key Highlights**
-- Standardized exception checks across financial domains
-- SQL-based control logic for reporting integrity
-- Variance monitoring and exception flagging
-- Reporting-focused validation structure for audit readiness
-
----
-
-## Skills
-
-SQL · Tableau · Financial Reporting · Reconciliation · UAT · Business Analysis
-
----
-
-## About Me
-
-Business Analyst with 4+ years of experience in financial reporting, reconciliation, UAT, and reporting controls. I build practical portfolio projects that simulate source-to-report validation, release readiness, and reporting control workflows used to improve reporting accuracy and deployment quality across finance and business teams.
-
----
-
-## Connect
-
-🌐 Portfolio — [yashsonawane.vercel.app](https://yashsonawane.vercel.app)  
-💼 LinkedIn — [linkedin.com/in/yash-sonawane25](https://linkedin.com/in/yash-sonawane25)  
-📄 Resume — Available on portfolio website
+Open to BA/BSA roles · Connect on LinkedIn
