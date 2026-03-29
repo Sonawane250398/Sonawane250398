@@ -16,6 +16,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
@@ -26,6 +27,7 @@
 | Project | What it does | Links |
 |---------|-------------|-------|
 | Financial Analytics Dashboard | $174M sales analyzed · 8 interactive charts · live deployed | [Live](https://financial-dashboard-bu2r.onrender.com) · [GitHub](https://github.com/Sonawane250398/financial-dashboard) |
+| Tableau Financial Dashboard | $174M sales analyzed · profit margin trend · country-level breakdown · published live | [Live](https://public.tableau.com/app/profile/yash.sonawane4448/viz/FinancialPerformanceAnalysis-YashSonawane/FinancialPerformanceAnalysisYashSonawane) |
 | Financial Data Quality Pipeline | 1,000 transactions validated · 90% pass rate · zero manual steps | [GitHub](https://github.com/Sonawane250398/financial-reporting-pipeline) |
 | SQL Reconciliation Platform | 3-layer source-to-report validation · exception reporting | [GitHub](https://github.com/Sonawane250398/sql-reconciliation-framework) |
 | UAT Release Framework | Full BA release pack · traceability matrix · defect tracking | [GitHub](https://github.com/Sonawane250398/financial-reporting-uat-framework) |
