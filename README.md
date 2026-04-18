@@ -1,5 +1,5 @@
 # Yash Sonawane
-### Business Analyst | Financial Data Integrity · SQL Reconciliation · Source-to-Report Validation
+### Business Analyst | Financial Data Integrity | SQL Reconciliation | Source-to-Report Validation
 
 **Fullerton, CA · Available for immediate hire **
 
@@ -58,11 +58,12 @@ SQL · Python · Pandas · Tableau · Power BI · Advanced Excel · Dash · Plot
 
 | Project | What it does | Links |
 |---------|-------------|-------|
-| **Financial Reporting Failure Detection System** | 80 exceptions caught across 1,000 transactions · 5 failure types · zero manual steps · audit-ready output before any data reaches reporting | [GitHub](https://github.com/Sonawane250398/financial-reporting-pipeline) |
+| **Financial Reporting Failure Detection System** | 80 exceptions caught across 1,000 transactions · 5 failure types · zero manual steps · audit-ready output before any data reaches reporting | [GitHub](https://github.com/Sonawane250398/financial-failure-detection-system) |
 | **Financial Analytics Dashboard** | $174M analyzed · 8 interactive charts · profit margins tracked 39% to 47% across 5 segments · live deployed on Render | [Live](https://financial-dashboard-bu2r.onrender.com) · [GitHub](https://github.com/Sonawane250398/financial-dashboard) |
 | **SQL Reconciliation Platform** | 3-layer source-to-report validation · missing records, duplicates, GL mapping errors, balance variances detected before final reporting | [GitHub](https://github.com/Sonawane250398/sql-reconciliation-framework) |
-| **UAT Release Framework** | Full BA release pack · traceability matrix · defect tracking · zero open defects at UAT sign-off | [GitHub](https://github.com/Sonawane250398/financial-reporting-uat-framework) |
-| **Reporting Controls Model** | 5 financial domains monitored · variance thresholds standardized · every exception flagged with control checkpoint reference before management review | [GitHub](https://github.com/Sonawane250398/financial-reporting-control-framework) |
+| **UAT Release Framework** | Full BA release pack · traceability matrix · defect tracking · zero open defects at UAT sign-off | [GitHub](https://github.com/Sonawane250398/financial-reporting-uat-release-readiness-framework) |
+| **Reporting Controls Model** | 5 financial domains monitored · variance thresholds standardized · every exception flagged with control checkpoint reference before management review | [GitHub](https://github.com/Sonawane250398/financial-reporting-controls-monitoring-model) |
+| **Requirements Traceability Matrix** | ... | [GitHub](https://github.com/Sonawane250398/requirements-traceability-matrix) |
 
 ---
 
