@@ -1,5 +1,3 @@
-<div align="center">
-
 # Yash Sonawane
 ### Business Analyst | Financial Data Integrity · SQL Reconciliation · Source-to-Report Validation
 
@@ -8,8 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sonawane25)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C48C?style=flat&logo=vercel&logoColor=white)](https://yashsonawane.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashsonawane25.work@gmail.com)
-
-</div>
 
 ---
 
@@ -86,10 +82,7 @@ SQL · Python · Pandas · Tableau · Power BI · Advanced Excel · Dash · Plot
 
 ---
 
-<div align="center">
 
 Open to **BSA · Financial Systems Analyst · Data Analyst** roles in fintech, banking & enterprise SaaS
 
 [Portfolio](https://yashsonawane.vercel.app) · [LinkedIn](https://linkedin.com/in/yash-sonawane25) · [Email](mailto:yashsonawane25.work@gmail.com)
-
-</div>
