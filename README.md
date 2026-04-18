@@ -1,4 +1,4 @@
-**Yash Sonawane** · **Business Analyst | Financial Reporting · Reconciliation · UAT** · **Fullerton, CA**
+**Yash Sonawane** · **Business Analyst | Financial Data Integrity · SQL Reconciliation · Source-to-Report Validation** · **Fullerton, CA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sonawane25)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C48C?style=flat&logo=vercel&logoColor=white)](https://yashsonawane.vercel.app)
@@ -6,9 +6,9 @@
 
 ## About
 
-- 4+ years in financial reporting, reconciliation & UAT
-- Building Python & SQL tools that catch data errors before they reach decision-makers
-- Open to BA / BSA roles in fintech, banking & enterprise SaaS
+- 4+ years validating financial data across source, ETL, and reporting layers — catching exceptions before they reach reporting
+- Build SQL reconciliation frameworks and Python pipelines that remove manual work from month-end close cycles
+- Open to BSA / Financial Systems Analyst roles in fintech, banking & enterprise SaaS
 
 ## Tech stack
 
@@ -26,12 +26,12 @@
 
 | Project | What it does | Links |
 |---------|-------------|-------|
-| Financial Analytics Dashboard | $174M sales analyzed · 8 interactive charts · live deployed | [Live](https://financial-dashboard-bu2r.onrender.com) · [GitHub](https://github.com/Sonawane250398/financial-dashboard) |
+| Financial Reporting Failure Detection System | 80 exceptions caught across 1,000 transactions · 5 failure types · zero manual steps · audit-ready output before any data reaches reporting | [GitHub](https://github.com/Sonawane250398/financial-reporting-pipeline) |
+| Financial Analytics Dashboard | $174M analyzed · 8 interactive charts · profit margins tracked 39% to 47% · live deployed | [Live](https://financial-dashboard-bu2r.onrender.com) · [GitHub](https://github.com/Sonawane250398/financial-dashboard) |
 | Tableau Financial Dashboard | $174M sales analyzed · profit margin trend · country-level breakdown · published live | [Live](https://public.tableau.com/app/profile/yash.sonawane4448/viz/FinancialPerformanceAnalysis-YashSonawane/FinancialPerformanceAnalysisYashSonawane) |
-| Financial Data Quality Pipeline | 1,000 transactions validated · 90% pass rate · zero manual steps | [GitHub](https://github.com/Sonawane250398/financial-reporting-pipeline) |
-| SQL Reconciliation Platform | 3-layer source-to-report validation · exception reporting | [GitHub](https://github.com/Sonawane250398/sql-reconciliation-framework) |
-| UAT Release Framework | Full BA release pack · traceability matrix · defect tracking | [GitHub](https://github.com/Sonawane250398/financial-reporting-uat-framework) |
-| Reporting Controls Model | 5 financial domains monitored · audit-ready SQL controls | [GitHub](https://github.com/Sonawane250398/financial-reporting-control-framework) |
+| SQL Reconciliation Platform | 3-layer source-to-report validation · missing records, duplicates, GL mapping errors, balance variances detected before final reporting | [GitHub](https://github.com/Sonawane250398/sql-reconciliation-framework) |
+| UAT Release Framework | Full BA release pack · traceability matrix · defect tracking · zero open defects at UAT sign-off | [GitHub](https://github.com/Sonawane250398/financial-reporting-uat-framework) |
+| Reporting Controls Model | 5 financial domains monitored · variance thresholds standardized · audit-ready SQL controls | [GitHub](https://github.com/Sonawane250398/financial-reporting-control-framework) |
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sonawane250398&theme=default)
 
@@ -39,4 +39,4 @@
 
 ---
 
-Open to BA/BSA roles · Connect on LinkedIn
+Open to BSA / Financial Systems Analyst roles · Connect on [LinkedIn](https://linkedin.com/in/yash-sonawane25)
