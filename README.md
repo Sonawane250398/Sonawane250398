@@ -1,7 +1,7 @@
 # Yash Sonawane
 ### Business Analyst | Financial Data Integrity | SQL Reconciliation | Source-to-Report Validation
 
-**Fullerton, CA · Available for immediate hire **
+Fullerton, CA · Available for immediate hire 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sonawane25)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C48C?style=flat&logo=vercel&logoColor=white)](https://yashsonawane.vercel.app)
@@ -15,9 +15,9 @@ I find the reconciliation breaks that don't surface until month-end, then build 
 
 4+ years validating financial data across source, ETL, and reporting layers. The work that matters is upstream: catching mismatches, missing records, and balance variances before they reach anyone who asked for the numbers.
 
-- Built SQL reconciliation frameworks validating **5,000+ records monthly** across 3 reporting layers - discrepancies down 20%, investigation time down 30%
-- Caught **80 exceptions across 1,000 transactions** using a Python severity engine - zero manual steps, audit-ready output
-- Delivered **6 consecutive zero-defect releases** across 3 business units - UAT to deployment with no rollbacks
+- Built SQL reconciliation frameworks validating **5,000+ records monthly** across 3 reporting layers — discrepancies down 20%, investigation time down 30%
+- Caught **80 exceptions across 1,000 transactions** using a Python severity engine — zero manual steps, audit-ready output
+- Delivered **6 consecutive zero-defect releases** across 3 business units — UAT to deployment with no rollbacks
 - Eliminated **6–8 hours** of weekly manual reporting through automated Tableau and Python pipelines
 
 ---
