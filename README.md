@@ -1,5 +1,5 @@
 # Yash Sonawane
-### Business Analyst | Financial Data Integrity | SQL Reconciliation | Source-to-Report Validation
+### Business Analyst & Data Analyst | SQL · Tableau · Python<br>| Reconciliation & Reporting Systems
 
 Fullerton, CA · Available for immediate hire 
 
@@ -64,6 +64,13 @@ SQL · Python · Pandas · Tableau · Power BI · Advanced Excel · Dash · Plot
 | **UAT Release Framework** | Full BA release pack · traceability matrix · defect tracking · zero open defects at UAT sign-off | [GitHub](https://github.com/Sonawane250398/financial-reporting-uat-release-readiness-framework) |
 | **Reporting Controls Model** | 5 financial domains monitored · variance thresholds standardized · every exception flagged with control checkpoint reference before management review | [GitHub](https://github.com/Sonawane250398/financial-reporting-controls-monitoring-model) |
 | **Requirements Traceability Matrix** | 13 functional requirements mapped to user stories, test cases, sprint delivery · 100% coverage across 4 sprints · zero open defects at UAT sign-off | [GitHub](https://github.com/Sonawane250398/requirements-traceability-matrix) |
+
+## 📄 Publication
+
+**A Scalable Framework for Financial Data Reconciliation<br>in Multi-Layer Reporting Systems**  
+SSRN + Zenodo · May 2026  
+7.6x latency reduction · 58% false-positive reduction · Perfect precision/recall on 5M-row synthetic ledger  
+[SSRN](https://ssrn.com/abstract=6680519) · [Zenodo](https://doi.org/10.5281/zenodo.19909708)
 
 ---
 
