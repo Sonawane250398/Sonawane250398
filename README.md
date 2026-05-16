@@ -1,7 +1,7 @@
 # Yash Sonawane
-### Business Analyst & Data Analyst | SQL · Tableau · Python<br>| Reconciliation & Reporting Systems
+### Data Engineer & Data Analyst | SQL · Tableau · Python<br>| Reconciliation & Reporting Systems
 
-Fullerton, CA · Open to BA, Data Analyst & Reporting Systems roles 
+Fullerton, CA · Open to Data Engineer, Data Analyst , Business Analyst & Reporting Systems roles 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sonawane25)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C48C?style=flat&logo=vercel&logoColor=white)](https://yashsonawane.vercel.app)
